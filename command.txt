@@ -1,0 +1,2 @@
+1. the correct command is pip install -r requirements.txt. 
+Note the -r option; without it, pip thinks you want to install a package named requirements.txt, which doesn't exist.
